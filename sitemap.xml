@@ -3,50 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://binhcaonguyen.github.io/categories/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://binhcaonguyen.github.io/categories/demo/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://binhcaonguyen.github.io/section-1/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/section-2/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/section-3/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/section-4/</loc>
-    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/section-5/</loc>
-    <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/section-6/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,21 +46,26 @@
   </url>
   
   <url>
-    <loc>https://binhcaonguyen.github.io/archives/</loc>
-  </url>
-  
-  <url>
     <loc>https://binhcaonguyen.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://binhcaonguyen.github.io/search/</loc>
+    <loc>https://binhcaonguyen.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://binhcaonguyen.github.io/archives/</loc>
   </url>
   
   <url>
     <loc>https://binhcaonguyen.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://binhcaonguyen.github.io/search/</loc>
   </url>
   
 </urlset>
